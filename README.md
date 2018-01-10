@@ -1,8 +1,8 @@
-For faster (0.8s/image) and improved hierarchical segmentation and proposals see "Convolutional Oriented Boundaries", ECCV 2016: http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/
+##Multiscale Combinatorial Grouping with Power Spectral Clustering
 
+This repo consists of code to use MCG along with Power Spectral Clustering [article](https://hal.archives-ouvertes.fr/hal-01516649v2/document) instead of Normalized Cut.
 
-**Multiscale Combinatorial Grouping**
-
+#Notes from original repository
 MCG is the package code that implements the algorithms presented in:
  - Pont-Tuset J, Arbelaez P, Barron J, Marques F, Malik J,
  "Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation,"
@@ -14,7 +14,7 @@ MCG is the package code that implements the algorithms presented in:
 
 Please consider citing the papers if you use this code.
 
-More info in the project page:
+More info about MCG in the project page:
 http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/
 
 **CAUTION**
@@ -22,7 +22,3 @@ http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/
 The **'full' package is not completely up to date**, use it only if you need to re-train the Pareto front or the ranking in MCG, then use 'pre-trained' to do the actual computations.
 
 **'Full' and 'Pre-Trained' packages not compatible with Windows.**
-
-
-
-
