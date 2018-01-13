@@ -23,10 +23,10 @@ pb_cont(pb_cont<0)=0; % requires positive signal.
 
 % create finest partition and transfer contour strength
 ws_wt = create_finest_partition(pb_cont, pb_ori);
-
 % convert to ucm2 format
 owt2 = double(super_contour_4c(ws_wt));
 owt2 = clean_watersheds(owt2);
+
 owt2(end+1, :) = owt2(end, :);
 owt2(:, end+1) = owt2(:, end);
 

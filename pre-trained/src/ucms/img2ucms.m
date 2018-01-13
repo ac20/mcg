@@ -2,11 +2,11 @@
 %  Copyright (C)
 %  Universitat Politecnica de Catalunya BarcelonaTech (UPC) - Spain
 %  University of California Berkeley (UCB) - USA
-% 
+%
 %  Jordi Pont-Tuset <jordi.pont@upc.edu>
 %  Pablo Arbelaez <arbelaez@berkeley.edu>
 %  June 2014
-% ------------------------------------------------------------------------ 
+% ------------------------------------------------------------------------
 % This file is part of the MCG package presented in:
 %    Arbelaez P, Pont-Tuset J, Barron J, Marques F, Malik J,
 %    "Multiscale Combinatorial Grouping,"
@@ -15,16 +15,16 @@
 % ------------------------------------------------------------------------
 function [ucm2, ucms, elapsed_time] = img2ucms(I, model, scales, all_parameters, param_multi, align_thr)
 % Multiscale hierarchical segmentation
-% Pablo Arbelaez 
+% Pablo Arbelaez
 % arbelaez@berkeley.edu
 
 if nargin<3,
     % This defines the order to project superpixels, so from coarse to fine
-    scales = [2, 1, 0.5]; 
+    scales = [2, 1, 0.5];
 end
 if nargin<4,
     % BSDS trainval parameters
-    all_parameters = [10 60 6 2 0.12]; 
+    all_parameters = [10 60 6 2 0.12];
 end
 if nargin<5,
     param_multi.weights      = ones(1, numel(scales));
@@ -99,18 +99,18 @@ function [ucm2, times] = img2ucm(I, model, mult_Pb, sat_sPb, nvec, dthresh, ic_g
 % edge detection
 T=tic;
 % TODO: Only once at the beginning 4,2,1 0.5
-[E,~,O] = edgesDetect( I, model );  
+[E,~,O] = edgesDetect( I, model );
 times(1)=toc(T);
 
-% continuous oriented watershed transform 
+% continuous oriented watershed transform
 T=tic;
 [owt2, superpixels] = contours2OWT(E, O);
-
 % globalization
 [ sPb_thin] = spectralPb_fast(owt2 * mult_Pb, nvec, ic_gamma, dthresh) / sat_sPb;
 
 % ultrametric contour map with mean pb.
 ucm2 = double(ucm_mean_pb( (owt2 + sPb_thin), superpixels) );
+
 times(2)=toc(T);
 
 

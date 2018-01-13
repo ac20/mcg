@@ -1,0 +1,200 @@
+  1 ---- DNcut : 3.6123     PRcut : 4.0422  dPRcut : 2.3075     Ncut : 6.9727
+  2 ---- DNcut : 2.5729     PRcut : 3.7160  dPRcut : 2.3389     Ncut : 6.8875
+  3 ---- DNcut : 2.1539     PRcut : 3.1841  dPRcut : 1.9722     Ncut : 7.2467
+  4 ---- DNcut : 2.1929     PRcut : 3.0696  dPRcut : 1.9146     Ncut : 7.3452
+  5 ---- DNcut : 2.6271     PRcut : 3.7322  dPRcut : 2.4260     Ncut : 7.7934
+  6 ---- DNcut : 2.6439     PRcut : 3.6864  dPRcut : 2.6119     Ncut : 9.6924
+  7 ---- DNcut : 2.7463     PRcut : 3.5499  dPRcut : 2.4484     Ncut : 7.2881
+  8 ---- DNcut : 2.6053     PRcut : 3.6870  dPRcut : 2.6091     Ncut : 7.1782
+  9 ---- DNcut : 2.4495     PRcut : 3.4556  dPRcut : 2.2353     Ncut : 6.9707
+ 10 ---- DNcut : 2.5496     PRcut : 3.6080  dPRcut : 2.5630     Ncut : 7.8315
+ 11 ---- DNcut : 2.7017     PRcut : 3.7068  dPRcut : 2.6525     Ncut : 8.7235
+ 12 ---- DNcut : 2.4160     PRcut : 3.5423  dPRcut : 2.3952     Ncut : 8.5910
+ 13 ---- DNcut : 2.5408     PRcut : 3.5764  dPRcut : 2.4739     Ncut : 7.1751
+ 14 ---- DNcut : 2.2921     PRcut : 3.3827  dPRcut : 2.1080     Ncut : 6.9461
+ 15 ---- DNcut : 2.4155     PRcut : 3.5832  dPRcut : 2.2267     Ncut : 7.6260
+ 16 ---- DNcut : 2.6470     PRcut : 4.1430  dPRcut : 2.3528     Ncut : 7.9343
+ 17 ---- DNcut : 2.6783     PRcut : 3.7295  dPRcut : 2.4407     Ncut : 8.1327
+ 18 ---- DNcut : 2.8251     PRcut : 3.9436  dPRcut : 2.6860     Ncut : 7.1019
+ 19 ---- DNcut : 2.7920     PRcut : 3.9853  dPRcut : 2.4870     Ncut : 7.2960
+ 20 ---- DNcut : 2.6212     PRcut : 3.6124  dPRcut : 2.3422     Ncut : 7.1104
+ 21 ---- DNcut : 2.7180     PRcut : 3.6973  dPRcut : 2.4961     Ncut : 7.8559
+ 22 ---- DNcut : 2.6573     PRcut : 3.5185  dPRcut : 2.5628     Ncut : 7.7079
+ 23 ---- DNcut : 2.2730     PRcut : 3.4609  dPRcut : 2.0476     Ncut : 6.7945
+ 24 ---- DNcut : 2.5263     PRcut : 3.6188  dPRcut : 2.5068     Ncut : 7.0099
+ 25 ---- DNcut : 2.5312     PRcut : 4.0768  dPRcut : 2.2688     Ncut : 8.5469
+ 26 ---- DNcut : 2.3194     PRcut : 3.1019  dPRcut : 2.0178     Ncut : 6.8721
+ 27 ---- DNcut : 2.4488     PRcut : 3.3530  dPRcut : 2.3544     Ncut : 7.5507
+ 28 ---- DNcut : 2.5174     PRcut : 3.5942  dPRcut : 2.3067     Ncut : 6.9399
+ 29 ---- DNcut : 2.1909     PRcut : 3.1495  dPRcut : 2.1669     Ncut : 6.7487
+ 30 ---- DNcut : 2.2720     PRcut : 3.0759  dPRcut : 2.0186     Ncut : 7.2858
+ 31 ---- DNcut : 2.4736     PRcut : 3.5709  dPRcut : 2.2054     Ncut : 6.8925
+ 32 ---- DNcut : 2.2804     PRcut : 3.1777  dPRcut : 2.0675     Ncut : 6.6730
+ 33 ---- DNcut : 2.4769     PRcut : 3.7248  dPRcut : 2.2541     Ncut : 9.3051
+ 34 ---- DNcut : 2.3984     PRcut : 3.3377  dPRcut : 2.1307     Ncut : 7.5006
+ 35 ---- DNcut : 2.7122     PRcut : 3.8016  dPRcut : 2.7545     Ncut : 7.9477
+ 36 ---- DNcut : 2.7858     PRcut : 3.7518  dPRcut : 2.5064     Ncut : 9.7494
+ 37 ---- DNcut : 2.2029     PRcut : 3.1176  dPRcut : 1.9610     Ncut : 8.2134
+ 38 ---- DNcut : 2.2166     PRcut : 3.2354  dPRcut : 2.0073     Ncut : 8.3085
+ 39 ---- DNcut : 2.5982     PRcut : 3.7901  dPRcut : 2.6691     Ncut : 7.9121
+ 40 ---- DNcut : 2.7128     PRcut : 3.8046  dPRcut : 2.4018     Ncut : 7.7789
+ 41 ---- DNcut : 2.8456     PRcut : 4.0412  dPRcut : 2.8518     Ncut : 8.0277
+ 42 ---- DNcut : 2.9273     PRcut : 3.6592  dPRcut : 2.4457     Ncut : 7.1305
+ 43 ---- DNcut : 2.4148     PRcut : 3.3800  dPRcut : 2.4022     Ncut : 7.0907
+ 44 ---- DNcut : 2.7023     PRcut : 3.7523  dPRcut : 2.4192     Ncut : 7.7870
+ 45 ---- DNcut : 2.2148     PRcut : 3.1289  dPRcut : 2.0224     Ncut : 6.7219
+ 46 ---- DNcut : 2.5476     PRcut : 3.4811  dPRcut : 2.3335     Ncut : 8.5501
+ 47 ---- DNcut : 2.4343     PRcut : 3.4416  dPRcut : 2.1795     Ncut : 7.5126
+ 48 ---- DNcut : 2.4454     PRcut : 3.3998  dPRcut : 2.1484     Ncut : 6.7877
+ 49 ---- DNcut : 2.5131     PRcut : 3.4401  dPRcut : 2.2254     Ncut : 7.5716
+ 50 ---- DNcut : 2.3900     PRcut : 3.3623  dPRcut : 2.3665     Ncut : 8.3660
+ 51 ---- DNcut : 2.1020     PRcut : 3.1622  dPRcut : 1.9102     Ncut : 7.2914
+ 52 ---- DNcut : 2.4831     PRcut : 3.4284  dPRcut : 2.2038     Ncut : 7.4871
+ 53 ---- DNcut : 2.4451     PRcut : 3.3876  dPRcut : 2.2376     Ncut : 9.5998
+ 54 ---- DNcut : 2.4384     PRcut : 3.3140  dPRcut : 2.0552     Ncut : 7.4872
+ 55 ---- DNcut : 2.3702     PRcut : 3.3735  dPRcut : 2.3789     Ncut : 7.1643
+ 56 ---- DNcut : 2.6810     PRcut : 3.5097  dPRcut : 2.6003     Ncut : 7.0611
+ 57 ---- DNcut : 2.3461     PRcut : 3.2727  dPRcut : 2.1209     Ncut : 6.8137
+ 58 ---- DNcut : 2.5406     PRcut : 3.4201  dPRcut : 2.2818     Ncut : 6.9641
+ 59 ---- DNcut : 2.1080     PRcut : 2.9949  dPRcut : 1.8774     Ncut : 6.5958
+ 60 ---- DNcut : 2.5387     PRcut : 3.4162  dPRcut : 2.2956     Ncut : 9.2441
+ 61 ---- DNcut : 2.6095     PRcut : 3.6233  dPRcut : 2.5746     Ncut : 8.6160
+ 62 ---- DNcut : 2.3806     PRcut : 3.3991  dPRcut : 2.3652     Ncut : 8.4579
+ 63 ---- DNcut : 2.3296     PRcut : 3.2485  dPRcut : 2.2677     Ncut : 6.8792
+ 64 ---- DNcut : 2.5517     PRcut : 3.5298  dPRcut : 2.2905     Ncut : 9.3069
+ 65 ---- DNcut : 2.6421     PRcut : 3.5007  dPRcut : 2.3533     Ncut : 7.0632
+ 66 ---- DNcut : 2.2037     PRcut : 3.1905  dPRcut : 1.9904     Ncut : 6.7073
+ 67 ---- DNcut : 2.2329     PRcut : 3.0960  dPRcut : 2.1956     Ncut : 6.7483
+ 68 ---- DNcut : 2.3806     PRcut : 3.5327  dPRcut : 2.1682     Ncut : 9.2601
+ 69 ---- DNcut : 2.5426     PRcut : 3.6285  dPRcut : 2.3938     Ncut : 7.2810
+ 70 ---- DNcut : 2.2846     PRcut : 3.3652  dPRcut : 2.0346     Ncut : 6.8783
+ 71 ---- DNcut : 2.7182     PRcut : 3.7498  dPRcut : 2.7075     Ncut : 7.4547
+ 72 ---- DNcut : 2.9606     PRcut : 3.6350  dPRcut : 2.4945     Ncut : 7.6485
+ 73 ---- DNcut : 2.6165     PRcut : 3.4802  dPRcut : 2.4920     Ncut : 7.5311
+ 74 ---- DNcut : 2.3783     PRcut : 3.3049  dPRcut : 2.0573     Ncut : 8.9876
+ 75 ---- DNcut : 2.1255     PRcut : 3.0501  dPRcut : 1.9085     Ncut : 8.3448
+ 76 ---- DNcut : 2.3173     PRcut : 3.1788  dPRcut : 1.9748     Ncut : 9.3583
+ 77 ---- DNcut : 2.5604     PRcut : 3.5371  dPRcut : 2.5653     Ncut : 8.0816
+ 78 ---- DNcut : 2.0660     PRcut : 3.0981  dPRcut : 1.8792     Ncut : 7.9915
+ 79 ---- DNcut : 2.6106     PRcut : 3.6109  dPRcut : 2.3637     Ncut : 9.7230
+ 80 ---- DNcut : 2.9818     PRcut : 3.9176  dPRcut : 2.5627     Ncut : 7.1887
+ 81 ---- DNcut : 2.7589     PRcut : 3.6681  dPRcut : 2.6483     Ncut : 7.2562
+ 82 ---- DNcut : 2.2157     PRcut : 3.1669  dPRcut : 1.9260     Ncut : 8.3382
+ 83 ---- DNcut : 2.3026     PRcut : 3.3235  dPRcut : 2.0750     Ncut : 9.2194
+ 84 ---- DNcut : 2.2552     PRcut : 3.1835  dPRcut : 1.9944     Ncut : 7.9442
+ 85 ---- DNcut : 3.0750     PRcut : 3.7248  dPRcut : 2.2562     Ncut : 9.8505
+ 86 ---- DNcut : 2.8843     PRcut : 4.2707  dPRcut : 2.5446     Ncut : 8.0763
+ 87 ---- DNcut : 2.8637     PRcut : 3.5555  dPRcut : 2.2749     Ncut : 7.4626
+ 88 ---- DNcut : 2.7247     PRcut : 3.7758  dPRcut : 2.4613     Ncut : 8.4926
+ 89 ---- DNcut : 3.1762     PRcut : 4.0314  dPRcut : 2.7500     Ncut : 7.8013
+ 90 ---- DNcut : 3.0195     PRcut : 4.1721  dPRcut : 2.6811     Ncut : 8.0771
+ 91 ---- DNcut : 3.1695     PRcut : 4.1102  dPRcut : 2.9032     Ncut : 7.9157
+ 92 ---- DNcut : 2.9377     PRcut : 4.4667  dPRcut : 2.9837     Ncut : 7.4961
+ 93 ---- DNcut : 2.4649     PRcut : 3.7149  dPRcut : 2.4544     Ncut : 9.7944
+ 94 ---- DNcut : 2.8509     PRcut : 4.4080  dPRcut : 3.1384     Ncut : 9.9934
+ 95 ---- DNcut : 3.9646     PRcut : 4.6567  dPRcut : 2.7607     Ncut : 8.9622
+ 96 ---- DNcut : 2.6698     PRcut : 3.7783  dPRcut : 2.7071     Ncut : 11.4369
+ 97 ---- DNcut : 2.8397     PRcut : 3.6227  dPRcut : 2.5674     Ncut : 8.8579
+ 98 ---- DNcut : 2.5113     PRcut : 3.6221  dPRcut : 2.3264     Ncut : 9.6556
+ 99 ---- DNcut : 2.4436     PRcut : 3.3439  dPRcut : 2.3483     Ncut : 7.3868
+100 ---- DNcut : 2.8166     PRcut : 3.7487  dPRcut : 2.6462     Ncut : 9.0498
+101 ---- DNcut : 2.8124     PRcut : 4.0697  dPRcut : 2.4352     Ncut : 9.9446
+102 ---- DNcut : 2.7448     PRcut : 3.8440  dPRcut : 2.7241     Ncut : 10.4996
+103 ---- DNcut : 2.4837     PRcut : 3.3523  dPRcut : 2.3474     Ncut : 8.3697
+104 ---- DNcut : 2.4954     PRcut : 3.4803  dPRcut : 2.1637     Ncut : 9.4940
+105 ---- DNcut : 2.5154     PRcut : 3.6140  dPRcut : 2.2723     Ncut : 9.2502
+106 ---- DNcut : 2.4051     PRcut : 3.3577  dPRcut : 2.3076     Ncut : 8.2599
+107 ---- DNcut : 2.4184     PRcut : 3.5619  dPRcut : 2.2269     Ncut : 6.7376
+108 ---- DNcut : 2.3045     PRcut : 3.4405  dPRcut : 2.4517     Ncut : 8.4146
+109 ---- DNcut : 2.8645     PRcut : 3.9875  dPRcut : 2.3366     Ncut : 9.5472
+110 ---- DNcut : 2.4788     PRcut : 3.8438  dPRcut : 2.4919     Ncut : 9.8997
+111 ---- DNcut : 2.4333     PRcut : 3.6204  dPRcut : 2.8847     Ncut : 10.6088
+112 ---- DNcut : 2.8477     PRcut : 4.0751  dPRcut : 2.6880     Ncut : 8.2660
+113 ---- DNcut : 2.7824     PRcut : 3.4730  dPRcut : 2.6557     Ncut : 7.9226
+114 ---- DNcut : 2.4853     PRcut : 3.6579  dPRcut : 2.2363     Ncut : 9.2861
+115 ---- DNcut : 2.4888     PRcut : 3.4090  dPRcut : 2.2539     Ncut : 9.0366
+116 ---- DNcut : 2.5400     PRcut : 3.6051  dPRcut : 2.3030     Ncut : 11.0290
+117 ---- DNcut : 2.7490     PRcut : 3.6481  dPRcut : 2.3430     Ncut : 7.9648
+118 ---- DNcut : 2.6126     PRcut : 3.8667  dPRcut : 2.3296     Ncut : 9.8824
+119 ---- DNcut : 2.9318     PRcut : 4.3724  dPRcut : 2.9177     Ncut : 11.4278
+120 ---- DNcut : 2.9456     PRcut : 4.0838  dPRcut : 3.0101     Ncut : 8.5393
+121 ---- DNcut : 2.8019     PRcut : 3.7439  dPRcut : 2.4166     Ncut : 8.7666
+122 ---- DNcut : 2.8656     PRcut : 3.7502  dPRcut : 2.5498     Ncut : 8.5978
+123 ---- DNcut : 2.6260     PRcut : 3.6569  dPRcut : 2.3768     Ncut : 8.3024
+124 ---- DNcut : 3.0391     PRcut : 4.2185  dPRcut : 3.6725     Ncut : 10.8880
+125 ---- DNcut : 3.0347     PRcut : 4.6940  dPRcut : 3.0909     Ncut : 7.9882
+126 ---- DNcut : 2.4183     PRcut : 3.3222  dPRcut : 2.0616     Ncut : 8.6301
+127 ---- DNcut : 2.5762     PRcut : 3.6325  dPRcut : 2.2048     Ncut : 7.8099
+128 ---- DNcut : 2.5160     PRcut : 3.5137  dPRcut : 2.2488     Ncut : 8.9840
+129 ---- DNcut : 2.5561     PRcut : 3.4656  dPRcut : 2.1971     Ncut : 7.7717
+130 ---- DNcut : 2.3300     PRcut : 3.1469  dPRcut : 2.3368     Ncut : 7.6391
+131 ---- DNcut : 2.5640     PRcut : 3.7921  dPRcut : 2.3430     Ncut : 11.0755
+132 ---- DNcut : 2.6901     PRcut : 3.6906  dPRcut : 2.6584     Ncut : 7.8976
+133 ---- DNcut : 2.5205     PRcut : 3.5468  dPRcut : 2.4908     Ncut : 8.5946
+134 ---- DNcut : 2.9368     PRcut : 4.2373  dPRcut : 2.4580     Ncut : 8.9535
+135 ---- DNcut : 3.1835     PRcut : 4.3535  dPRcut : 2.8860     Ncut : 8.7940
+136 ---- DNcut : 3.1182     PRcut : 4.6038  dPRcut : 3.2975     Ncut : 10.4901
+137 ---- DNcut : 3.0604     PRcut : 4.5799  dPRcut : 3.3663     Ncut : 11.2467
+138 ---- DNcut : 3.2971     PRcut : 4.9117  dPRcut : 3.1597     Ncut : 8.9082
+139 ---- DNcut : 2.9659     PRcut : 4.3736  dPRcut : 2.5812     Ncut : 8.2654
+140 ---- DNcut : 3.0837     PRcut : 4.2659  dPRcut : 3.0615     Ncut : 9.2519
+141 ---- DNcut : 3.2439     PRcut : 4.5528  dPRcut : 2.9262     Ncut : 8.4927
+142 ---- DNcut : 2.7684     PRcut : 4.0546  dPRcut : 2.7523     Ncut : 7.3652
+143 ---- DNcut : 2.8526     PRcut : 4.3040  dPRcut : 2.7317     Ncut : 10.1850
+144 ---- DNcut : 2.9755     PRcut : 4.3003  dPRcut : 2.6043     Ncut : 10.3321
+145 ---- DNcut : 2.4828     PRcut : 3.4627  dPRcut : 2.1833     Ncut : 9.6260
+146 ---- DNcut : 2.9075     PRcut : 3.9613  dPRcut : 3.0154     Ncut : 8.1698
+147 ---- DNcut : 2.6113     PRcut : 3.8297  dPRcut : 2.3355     Ncut : 7.6571
+148 ---- DNcut : 3.0291     PRcut : 4.1409  dPRcut : 2.6286     Ncut : 8.5703
+149 ---- DNcut : 3.0049     PRcut : 4.2087  dPRcut : 2.6826     Ncut : 7.9228
+150 ---- DNcut : 2.4585     PRcut : 3.6196  dPRcut : 2.2196     Ncut : 9.4610
+151 ---- DNcut : 2.6198     PRcut : 3.5746  dPRcut : 2.4285     Ncut : 7.5027
+152 ---- DNcut : 2.4978     PRcut : 3.8191  dPRcut : 2.5511     Ncut : 8.9987
+153 ---- DNcut : 2.6166     PRcut : 3.5937  dPRcut : 2.2385     Ncut : 8.8737
+154 ---- DNcut : 3.2317     PRcut : 4.4057  dPRcut : 2.7096     Ncut : 11.6258
+155 ---- DNcut : 3.6138     PRcut : 4.5011  dPRcut : 2.8051     Ncut : 9.8019
+156 ---- DNcut : 3.1712     PRcut : 4.5535  dPRcut : 2.7802     Ncut : 10.0967
+157 ---- DNcut : 2.7626     PRcut : 3.6962  dPRcut : 2.6447     Ncut : 8.0318
+158 ---- DNcut : 2.7036     PRcut : 3.9135  dPRcut : 2.3240     Ncut : 7.9014
+159 ---- DNcut : 2.5521     PRcut : 3.6674  dPRcut : 2.3903     Ncut : 11.0095
+160 ---- DNcut : 3.1056     PRcut : 4.1527  dPRcut : 2.8047     Ncut : 8.2631
+161 ---- DNcut : 2.9141     PRcut : 4.0010  dPRcut : 2.7685     Ncut : 10.7197
+162 ---- DNcut : 3.0509     PRcut : 3.9231  dPRcut : 2.5302     Ncut : 9.6660
+163 ---- DNcut : 2.5993     PRcut : 4.0186  dPRcut : 2.9869     Ncut : 11.2685
+164 ---- DNcut : 2.8574     PRcut : 3.9102  dPRcut : 2.3860     Ncut : 8.0043
+165 ---- DNcut : 2.8460     PRcut : 3.9143  dPRcut : 2.4324     Ncut : 7.9685
+166 ---- DNcut : 2.9868     PRcut : 5.4758  dPRcut : 2.8659     Ncut : 7.9599
+167 ---- DNcut : 3.4170     PRcut : 4.5779  dPRcut : 3.5941     Ncut : 10.1143
+168 ---- DNcut : 2.5873     PRcut : 3.7479  dPRcut : 2.3948     Ncut : 8.1977
+169 ---- DNcut : 3.2944     PRcut : 5.3133  dPRcut : 3.3116     Ncut : 7.9472
+170 ---- DNcut : 2.0926     PRcut : 2.9418  dPRcut : 1.9594     Ncut : 5.9698
+171 ---- DNcut : 2.5038     PRcut : 3.5638  dPRcut : 2.4698     Ncut : 6.8762
+172 ---- DNcut : 2.3087     PRcut : 2.9118  dPRcut : 2.3515     Ncut : 6.4491
+173 ---- DNcut : 2.1006     PRcut : 3.1252  dPRcut : 2.1598     Ncut : 6.7884
+174 ---- DNcut : 2.0152     PRcut : 3.0078  dPRcut : 1.8641     Ncut : 6.7437
+175 ---- DNcut : 2.0815     PRcut : 3.1462  dPRcut : 1.9886     Ncut : 6.8989
+176 ---- DNcut : 2.2883     PRcut : 3.2921  dPRcut : 2.0450     Ncut : 7.0161
+177 ---- DNcut : 2.1618     PRcut : 3.3532  dPRcut : 2.2127     Ncut : 7.4705
+178 ---- DNcut : 2.0465     PRcut : 3.2460  dPRcut : 2.1016     Ncut : 8.1469
+179 ---- DNcut : 2.0566     PRcut : 3.8216  dPRcut : 2.0387     Ncut : 8.4454
+180 ---- DNcut : 2.3039     PRcut : 3.2037  dPRcut : 2.1268     Ncut : 8.5326
+181 ---- DNcut : 2.3158     PRcut : 3.2744  dPRcut : 2.1853     Ncut : 6.1990
+182 ---- DNcut : 1.8837     PRcut : 2.8256  dPRcut : 1.8190     Ncut : 6.2760
+183 ---- DNcut : 2.4696     PRcut : 3.7456  dPRcut : 2.6591     Ncut : 7.9370
+184 ---- DNcut : 2.3754     PRcut : 3.8200  dPRcut : 2.3319     Ncut : 8.3170
+185 ---- DNcut : 2.7840     PRcut : 3.7705  dPRcut : 2.3211     Ncut : 8.5443
+186 ---- DNcut : 2.7477     PRcut : 3.6868  dPRcut : 2.3177     Ncut : 10.0358
+187 ---- DNcut : 2.8390     PRcut : 3.8063  dPRcut : 2.4289     Ncut : 6.5938
+188 ---- DNcut : 2.6822     PRcut : 3.6675  dPRcut : 2.7656     Ncut : 8.5041
+189 ---- DNcut : 3.1899     PRcut : 5.0134  dPRcut : 4.4601     Ncut : 12.2332
+190 ---- DNcut : 3.3543     PRcut : 4.7965  dPRcut : 2.8288     Ncut : 8.9441
+191 ---- DNcut : 2.7890     PRcut : 3.5491  dPRcut : 2.5602     Ncut : 8.5408
+192 ---- DNcut : 2.8572     PRcut : 4.1798  dPRcut : 2.4702     Ncut : 8.3809
+193 ---- DNcut : 2.3181     PRcut : 3.4898  dPRcut : 2.0593     Ncut : 6.2917
+194 ---- DNcut : 2.2409     PRcut : 3.4485  dPRcut : 2.6010     Ncut : 7.9820
+195 ---- DNcut : 2.3989     PRcut : 3.1965  dPRcut : 2.1540     Ncut : 7.6089
+196 ---- DNcut : 2.0228     PRcut : 3.0134  dPRcut : 2.0852     Ncut : 6.1246
+197 ---- DNcut : 2.3192     PRcut : 3.4387  dPRcut : 2.3567     Ncut : 6.5543
+198 ---- DNcut : 2.3029     PRcut : 3.2691  dPRcut : 2.1645     Ncut : 7.2145
+199 ---- DNcut : 2.5484     PRcut : 3.9958  dPRcut : 2.4208     Ncut : 6.9813
+200 ---- DNcut : 2.2263     PRcut : 3.3035  dPRcut : 2.1138     Ncut : 7.2051

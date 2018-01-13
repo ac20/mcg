@@ -1,3 +1,2 @@
-benchmark/results/Pascal
-benchmark/results/SBD
-benchmark/results/COCO
+pre-trained/datasets
+pre-trained/demos/answer

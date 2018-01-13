@@ -1,0 +1,1 @@
+  1 ---- DNcut : 0.9995   time   :4.8621  DNcut_accurate : 0.9992   time   :13.0668  PRcut : 0.9995  time   :2.9240  dPRcut : 0.9960  time   :2.0377  dPRcut_accurate : 0.9936  time   :11.3780  

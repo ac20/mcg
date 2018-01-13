@@ -1,12 +1,12 @@
-% ------------------------------------------------------------------------ 
+% ------------------------------------------------------------------------
 %  Copyright (C)
 %  Universitat Politecnica de Catalunya BarcelonaTech (UPC) - Spain
 %  University of California Berkeley (UCB) - USA
-% 
+%
 %  Jordi Pont-Tuset <jordi.pont@upc.edu>
 %  Pablo Arbelaez <arbelaez@berkeley.edu>
 %  June 2014
-% ------------------------------------------------------------------------ 
+% ------------------------------------------------------------------------
 % This file is part of the MCG package presented in:
 %    Arbelaez P, Pont-Tuset J, Barron J, Marques F, Malik J,
 %    "Multiscale Combinatorial Grouping,"
@@ -19,14 +19,13 @@ function sPb_thin = spectralPb_fast(ws_wt2, nvec, ic_gamma, dthresh)
 % description:
 %   fast spectral gradient contours
 %
-% Jon Barron and Pablo Arbelaez 
+% Jon Barron and Pablo Arbelaez
 % <arbelaez@berkeley.edu>
 % Jan 2014
 
 if nargin<4, dthresh = 2; end
 if nargin<3, ic_gamma = 0.12; end
 if nargin<2, nvec = 6; end
-
 [tx2, ty2] = size(ws_wt2);
 tx=(tx2-1)/2; ty=(ty2-1)/2;
 
@@ -36,9 +35,7 @@ l{2}= ws_wt2(2:2:end,1:2:end);
 % build the pairwise affinity matrix
 [val,I,J] = buildW(l{1},l{2}, dthresh, ic_gamma);
 W = sparse(val,I,J);
-
-[EigVect, EVal] =  ncuts_downsample3(W, nvec, 2, 2, [ty, tx]); 
-
+[EigVect, EVal] =  ncuts_downsample3(W, nvec, 2, 2, [ty, tx]);
 clear D W opts;
 
 EigVal = diag(EVal);
@@ -62,6 +59,7 @@ sPb_thin = zeros(2*tx+1, 2*ty+1);
 for v = 1 : nvec
     if EigVal(v) > 0,
         vec = vect(:,:,v)/sqrt(EigVal(v));
+%         vec = vec = vect(:,:,v);
         sPb_thin = sPb_thin + seg2bdry_wt(vec, 'doubleSize');
      end
 end
@@ -81,23 +79,23 @@ SZ_down = SZ;
 
 Bs = cell(N_DOWNSAMPLE,1);
 for di = 1:N_DOWNSAMPLE
-    
+
     % Create a binary array of the pixels that will remain after decimating
     % every other row and column
-    [i,j] = ind2sub(SZ_down, 1:size(A_down,1)); 
+    [i,j] = ind2sub(SZ_down, 1:size(A_down,1));
     do_keep = (mod(i, DECIMATE) == 0) & (mod(j, DECIMATE) == 0);
-    
-    % Downsample the affinity matrix
+
+    % Downsample the affinity matrixbuildW
     A_sub = A_down(:,do_keep)';
-    
+
     % Normalize the downsampled affinity matrix
     d = (sum(A_sub,1) + eps);
     B = bsxfun(@rdivide, A_sub, d)';
-   
+
     % "Square" the affinity matrix, while downsampling
     A_down = A_sub*B;
     SZ_down = floor(SZ_down / 2);
-   
+
     % Hold onto the normalized affinity matrix for bookkeeping
     Bs{di} = B;
 end
@@ -134,4 +132,3 @@ v = diag(EVal);
 [sorted, sortidx] = sort(v, 'descend');
 EV = EV(:,sortidx);
 EVal = diag(sorted);
-
